@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.cache/
+email_model_finetuned/
+logs/

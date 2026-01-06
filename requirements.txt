@@ -1,0 +1,11 @@
+transformers
+torch
+sentencepiece
+datasets
+pandas
+numpy
+streamlit
+gradio
+rouge-score
+evaluate
+accelerate
